@@ -463,8 +463,6 @@ class ViewerMRI:
 
                 self.cond_window.config(text='%d ' % self.patch_num + self.cond_sentence(self.patch_num)+' selected')
 
-
-
             if False:
                 self.patch_popup = Toplevel()
                 self.patch_popup.title('Patch image view')
