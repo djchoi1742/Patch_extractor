@@ -1,5 +1,5 @@
 # musmri
-- Program that can be saved by selecting a patch from musculoskeletal MRI
+- Program for extracting specific patches from musculoskeletal MRI slice image
 - Main features
  - Upload & view image in DICOM format
  - Grid setting for patch spacing
