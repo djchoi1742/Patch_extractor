@@ -3,5 +3,5 @@
 - Main features
  - Upload & view image in DICOM format
  - Grid setting for patch spacing
-  - Adjust grid spacing and positioning
+   - Adjust grid spacing and positioning
  - Save patch in DICOM format
