@@ -1,4 +1,4 @@
-# Patch extractor
+# Patch extractor for DICOM images
 - Program for extracting specific patches from musculoskeletal MRI slice image
 - Main features
    - Upload & view image in DICOM format
