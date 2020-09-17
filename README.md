@@ -5,4 +5,4 @@
    - Grid setting for patch spacing
      - Adjust grid spacing and positioning
    - Save patch in DICOM format
-- Optimized for MRI and CT slice images
+- Can be used for other DICOM images such as CT, X-ray, etc.
