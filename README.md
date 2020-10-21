@@ -7,4 +7,4 @@
    - Save patch in DICOM format
 - Can be used for other DICOM images such as CT, X-ray, etc.
 
-# ![그림1](![Patch_extractor_gui](https://user-images.githubusercontent.com/49828672/96695510-b3715980-13c4-11eb-9433-bbed1e9f32c9.PNG))
+# !https://github.com/djchoi1742/Patch_extractor/issues/1#issue-726268831
